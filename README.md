@@ -18,28 +18,25 @@
 
 <br>
 
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>Sobre mim </em></h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamozd2kwcXpocXp0OXo1enNocHQ4NzZvcG9kNmJhaWlxOGd3eXdmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqKEbtYoEzC2am7Sxk/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  E ai, de boa? <em><b> Me chamo Weslley Sales </b></em>, e sou estudante de Análise e Desenvolvimento de Sistemas. Gosto de aprender novas tecnologias e resolver problemas de empresas com projetos inovadores. Atualmente, estou trabalhando em alguns projetos pequenos para colocar em prática meus conhecimentos em JavaScript, React, Bootstrap e muito mais.
 </p>
 
 
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025 - 2026) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Estudante em formação na universidade Cruzeiro do Sul </b></em> <br/>
 </p>
 
 <br/>
 <br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Tecnologias </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
